@@ -296,7 +296,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefabExplosion: {fileID: 1862489548680258586, guid: 22490938f7e492b48b47a7fc90b53568, type: 3}
-  nameTarget: "\u6575\u4EBA"
+  nameTarget: "\u5B50\u5F48"
 --- !u!1 &330844467 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5167554667600635389, guid: 258bab5bf6170504492a4dbdb033b0c5, type: 3}
@@ -782,7 +782,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0311596f70e618a4fb86772846884ea6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabExplosion: {fileID: 8073300931719206025, guid: f330fd585f3321c4890e21e821aa28e3, type: 3}
+  prefabExplosion: {fileID: 1862489548680258586, guid: 22490938f7e492b48b47a7fc90b53568, type: 3}
   nameTarget: "\u73A9\u5BB6"
 --- !u!1 &1676617529 stripped
 GameObject:
